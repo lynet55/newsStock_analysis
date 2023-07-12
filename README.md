@@ -5,3 +5,5 @@ Python and R files used for data- generation and analysis, in a project studying
 The output from these files is used in a final abstract, attempting to answer if there are any correlation between the sentiment of news articles and the DJI. 
 
 Note. These are project files, which means that not all files are used in the final iteration of the project. Finally, there would be a file for generating data containing sentiment data by calling the Hugging Face model on the news articles. And there would also be R file containing the workflow of analyzing the data.
+
+Project done collaberating with Nicklas Lillerud Aanonsen.
